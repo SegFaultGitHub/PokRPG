@@ -1,0 +1,11 @@
+# ninja log v5
+79	392	7607301871616794	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	efbe4ca4277f1d10
+394	801	7607301875219495	D:/projects/Unity/PokRPG/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/115i663o/obj/arm64-v8a/libswappywrapper.so	f731790f0a3e5fee
+52	1671	7607301884400697	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	4421c1e58e5db090
+23	1756	7607301885245648	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	546e74bea7205f76
+33	1757	7607301885275580	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	613964d6c8f95760
+68	1927	7607301886965747	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	11343f6b106028df
+14	1973	7607301887447489	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	eee7e00677d0e469
+43	2199	7607301889714977	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	3b1a621cdd8e43e6
+1	2400	7607301891713692	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	bba477c88dabf218
+2401	2599	7607301893653186	D:/projects/Unity/PokRPG/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/115i663o/obj/arm64-v8a/libgame.so	75653f6091878b6f
